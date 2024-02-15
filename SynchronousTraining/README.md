@@ -106,5 +106,4 @@ BUG: Kullanıcı videoları izlediği halde, böyle bir durum söz konusu değil
 
 
 
-
-
+![image](https://github.com/esraucinar/Tobeto-platform-test-project/assets/148894125/ee1a0180-d7f9-4f50-b37e-1a07a91696b3)
