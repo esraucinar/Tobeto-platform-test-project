@@ -95,7 +95,7 @@ class Test_tobeto_giris():
         loginbutton = self.driver.find_element(By.XPATH, gC.LOGGİNBUTTON_XPATH)
         loginbutton.click()
         sleep(4)
-        assert self.driver.find_element(By.CSS_SELECTOR, ".toast-body").text == "• Geçersiz e-posta veya şifre."
+        assert self.driver.find_element(By.CSS_SELECTOR, ".toast-body").text == "• Henüz e-posta adresinizi doğrulamadınız."
     
 
     #Doldurulması zorunlu alan:e-posta yazıp şifre alanının boş kalmaması gerektiğini söyleyen başarısız giriş.
